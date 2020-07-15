@@ -1,0 +1,5 @@
+Log: Application started.
+Log: User <God of Thunder> logged in.
+Log: <God of Thunder> ingested a whole: MANGO. Number of calories: 60.
+Log: <God of Thunder> ingested a whole: APPLE. Number of calories: 45.
+Log: Application closed.
